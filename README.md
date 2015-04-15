@@ -128,3 +128,7 @@ Acid.Models.MyModel = Backbone.Model.extend({
 
 _.extend(Acid.Models.MyModel.prototype, Acid.Mixins.Validation);
 ```
+
+License
+-------
+Released under the MIT License.  See the LICENSE file for further details.
