@@ -1,10 +1,21 @@
 {
   "name": "acid.validator",
   "private": true,
+  "main": "dist/scripts/app.min.js",
   "dependencies": {
     "underscore": "~1.7.0"
   },
   "devDependencies": {
     "jasmine": "~2.3.4"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "**/*.md",
+    "coffeelint.json",
+    "bin",
+    "spec",
+    "test",
+    "node_modules",
+    "bower_components"
+  ]
 }
