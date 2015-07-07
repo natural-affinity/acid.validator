@@ -11,6 +11,7 @@
   "ignore": [
     "**/.*",
     "**/*.md",
+    "Gruntfile.js",
     "coffeelint.json",
     "bin",
     "spec",
